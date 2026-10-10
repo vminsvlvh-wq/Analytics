@@ -1,0 +1,6 @@
+{
+  "name": "Business Intelligence Tool",
+  "description": "Executive BI workspace featuring interactive analytics dashboards, custom dataset import, visual metric query builder, and AI data insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
